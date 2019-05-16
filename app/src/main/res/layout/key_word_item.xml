@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+
+    </data>
+    <FrameLayout
+            android:layout_width="wrap_content"
+            android:padding="8dp"
+            tools:background="@color/colorPrimary"
+            android:layout_height="wrap_content">
+        <TextView
+                android:id="@+id/text"
+                android:gravity="center"
+                android:textSize="18sp"
+                android:minHeight="60dp"
+                android:minWidth="80dp"
+                tools:text="haha long long"
+                android:textColor="@android:color/white"
+                android:maxLines="2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+    </FrameLayout>
+</layout>
