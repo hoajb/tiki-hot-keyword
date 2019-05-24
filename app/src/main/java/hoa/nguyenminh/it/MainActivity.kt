@@ -1,4 +1,4 @@
-package hoa.nguyenminh.it
+﻿package hoa.nguyenminh.it
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -21,7 +21,8 @@ class MainActivity : AppCompatActivity() {
         "tai nghe bluetooth",
         "kem chống nắng",
         "a a a long long long",
-        "banh trung thu trung muoi"
+        "banh trung thu trung muoi",
+	"banh trung thu Kinh Do"
 
     )
 
